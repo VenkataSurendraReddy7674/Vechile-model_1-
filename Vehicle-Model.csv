@@ -1,18 +1,18 @@
-Location, Air_Quality
-Metropolis, 15.72
-Greenland, 11.33
-Sahara, 13.45
-Everglades, 8.21
-Rockies, 10.88
-Himalayas, 12.75
-Galaxy, 7.45
-Tundra, 14.29
-Atlantis, 17.92
-Olympus, 10.34
-Venice, 9.62
-Amazonia, 9.18
-Desert, 3.87
-Dubai, 9.99
-Outback, 8.77
-Fuji, 10.56
-Andes, 9.11
+"Vehicle	Engine_Efficiency"
+"Car	15.72"
+"Snowmobile	11.33"
+"Dune Buggy	13.45"
+"Airboat	8.21"
+"Jeep	10.88"
+"Sherpa	12.75"
+"Galaxy	7.45"
+"Dog Sled	14.29"
+"Submarine	17.92"
+"Winged Chariot	10.34"
+"Gondola	9.62"
+"Canoe	9.18"
+"Sand Rail	3.87"
+"Luxury Sedan	9.99"
+"SUV	8.77"
+"Rally Car	10.56"
+"Mountain Bike	9.11"
